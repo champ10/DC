@@ -1,0 +1,5 @@
+#Do not modify this file, create 'network.cfg' and work with it.
+
+node.url = rmi://localhost/127.0.0.1
+node.url = rmi://localhost/127.0.0.1
+node.url = rmi://localhost/127.0.0.1
